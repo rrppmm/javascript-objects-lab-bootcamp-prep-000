@@ -6,5 +6,5 @@ function updateObjectWithKeyAndValue(recipes, key, value) {
   return recipes;
 }
 function updateObjectWithKeyAndValue(recipes, key, value) {
-  return Object.assign({}, )
+  return Object.assign({}, recipes, )
 }
